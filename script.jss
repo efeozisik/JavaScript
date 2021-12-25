@@ -4,7 +4,7 @@
     Tarih: 16.08.2021
 */
 
-//object örneği olsun diye yapıyoruz
+//object örneği olsun diye yapıyorum
 
 //öncelikle boş bir obje oluşturuyoruz
 let person = {}
@@ -143,4 +143,5 @@ function faktoriyelBul(sayi) {
     }
     return sonuc
 }
-bitti
+    bitti
+    
